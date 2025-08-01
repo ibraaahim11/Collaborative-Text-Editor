@@ -1,6 +1,6 @@
 # Collaborative Plain Text Editor
 
-A real-time collaborative plain text editor built in Java, designed for seamless document editing and sharing among multiple users. This project demonstrates advanced programming techniques, including real-time synchronization, CRDT-based conflict resolution, and user presence tracking.
+A real-time collaborative plain text editor built in Java, designed for seamless document editing and sharing among multiple users. This project demonstrates real-time synchronization, CRDT-based conflict resolution, and user presence tracking.
 
 ---
 
