@@ -1,3 +1,6 @@
+<a id="readme-top"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ibrahim-hesham-abdel-dayem/)
+
 # Collaborative Plain Text Editor
 
 A real-time collaborative plain text editor built in Java, designed for seamless document editing and sharing among multiple users. This project demonstrates real-time synchronization, CRDT-based conflict resolution, and user presence tracking.
